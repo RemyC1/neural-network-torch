@@ -1,1 +1,1 @@
-# neural-netwrok-torch
+# neural-network-torch
